@@ -1,8 +1,8 @@
-# Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Java Resources [![Great](https://www.seeklogo.net/wp-content/uploads/2011/06/java-logo-vector.png)](https://github.com/nmvijay/Java-Resources)
 
-A curated list of awesome Java frameworks, libraries and software.
+A curated list of Great Java frameworks, libraries and software.
 
-- [Awesome Java](#awesome-java)
+- [Java](#java)
     - [Ancients](#ancients)
     - [Bean Mapping](#bean-mapping)
     - [Build](#build)
@@ -945,6 +945,4 @@ A curated list of awesome Java frameworks, libraries and software.
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) for guidelines.
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
+Please have a look at [CONTRIBUTING](https://github.com/nmvijay/Java-Resources/blob/master/CONTRIBUTING.md) for guidelines.
