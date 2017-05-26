@@ -221,6 +221,8 @@ A curated list of Great Java frameworks, libraries and software.
 
 *Everything that simplifies interactions with the database.*
 
+* [Apache Cassandra](https://cassandra.apache.org/) - High-performance distributed database designed to handle large amounts of data.
+* [Debezium](http://debezium.io) - Debezium is an open source distributed platform for change data capture.
 * [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
 * [Apache Phoenix](http://phoenix.apache.org/) - High-performance relational database layer over HBase for low-latency applications.
 * [Chronicle Map](https://github.com/OpenHFT/Chronicle-Map) - Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
