@@ -552,6 +552,8 @@ A curated list of Great Java frameworks, libraries and software.
 * [Eureka](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
 * [Lagom](https://www.lightbend.com/lagom) - Framework for creating microservice-based systems.
 * [restQL-core](https://github.com/B2W-BIT/restQL-core) - Microservice query language that fetches information from multiple services.
+* [Kong](https://getkong.org) - Kong is a scalable, open source API Layer (also known as an API Gateway, or API Middleware).
+* [Unirest](http://unirest.io/) - Unirest is a set of lightweight HTTP libraries.
 
 ## Monitoring
 
