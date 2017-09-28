@@ -122,7 +122,7 @@ A curated list of Great Java frameworks, libraries and software.
 
 *HTTP Client Libraries / Frameworks*
 
-* [Unirest](http //unirest.io) - Unirest is a set of lightweight HTTP libraries available in multiple languages.
+* [Unirest] (http //unirest.io) - Unirest is a set of lightweight HTTP libraries available in multiple languages.
 * [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 
 
