@@ -118,6 +118,14 @@ A curated list of Great Java frameworks, libraries and software.
 * [Bazel](http://bazel.io) - Tool from Google that builds code quickly and reliably.
 * [Gradle](http://gradle.org/) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
+## HTTP Clients
+
+*HTTP Client Libraries / Frameworks*
+
+* [Unirest](http //unirest.io) - Unirest is a set of lightweight HTTP libraries available in multiple languages.
+* [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
+
+
 ## Bytecode Manipulation
 
 *Libraries to manipulate bytecode programmatically.*
